@@ -18,6 +18,7 @@
 - [Tanish] (https://github.com/tanishmisra9)
   [kshitij] ([Kshitij](https://github.com/KshitijK21)
 - [Harshini BV] (https://github.com/Harshbv)
+- [Animesh Ghosh](https://github.com/Animesh2605)
 - [Amrit Kumar] (https://github.com/AmritKumar777)
 - [Vinod Gawande](https://github.com/VinodGawande)
 - [Adeesha Induja](https://github.com/AdeeshaInduja)- [Priced](https://github.com/PricedTuna)
